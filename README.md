@@ -1,4 +1,4 @@
-<h1 align="center">🧮 Tip Calculator App</h1>
+<h1 align="center">🧮 Tip-Calculator App 💸</h1>
 
 Esta práctica se centra en los Aspectos Básicos de Android con Compose en relacion a la persistencia de datos, específicamente abordando la unidad 2: Compila la IU de una app.
 
