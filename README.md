@@ -1,6 +1,7 @@
 <h1 align="center">🧮 Tip-Calculator App 💸</h1>
 
-Esta práctica se centra en los Aspectos Básicos de Android con Compose en relacion a la persistencia de datos, específicamente abordando la unidad 2: Compila la IU de una app.
+<img align="left" width="100" height="100" src="https://github.com/AlejandroDavidArzolaSaavedra/Tip-Calculator/assets/90756437/61c73601-8bd9-4749-bdec-a8ac08ab366f"></a>
+Esta práctica se centra en los Aspectos Básicos de Android con Compose en relacion a la persistencia de datos, específicamente abordando la unidad 2: Compila la IU de una app.<br><br><br>
 
 ## 🙆👨‍💻 Autor (Ctrl + Click para ver los perfiles)
 Este informe ha sido elaborado por el Grupo 13 del curso de Programación de Aplicaciones Móviles Nativas (PAMN).
@@ -61,6 +62,8 @@ Si deseas compilar el informe en Overleaf en lugar de hacerlo en tu máquina loc
 6. Una vez que haya finalizado la compilación, podrás descargar el archivo PDF resultante desde la interfaz de Overleaf.
 
 ## 🤝 Contribuciones
-Si desea contribuir a este informe o realizar mejoras, le invitamos a hacerlo. Puede abrir problemas (issues) o enviar solicitudes de extracción (pull requests) para colaborar en el desarrollo del informe.
 
-Por favor, contácteme si tiene preguntas o comentarios sobre el informe.
+<img align="left" width="180" height="180" src="https://github.com/AlejandroDavidArzolaSaavedra/ImageViewer/assets/90756437/90ff306e-1d80-4561-a8cf-defef8bba38f"></a>
+Si desea contribuir a este informe o realizar mejoras, le invitamos a hacerlo. Puede abrir problemas (issues) o enviar solicitudes de extracción (pull requests) para colaborar en el desarrollo del informe.<br><br>
+
+Por favor, contácteme si tiene preguntas o comentarios sobre el informe 🤗
