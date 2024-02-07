@@ -1,4 +1,4 @@
-<h1 align="center">🧮 Tip-Calculator App 💸</h1>
+<h1 align="center">🧮 Tip-Calculator 💸</h1>
 
 <img align="left" width="100" height="100" src="https://github.com/AlejandroDavidArzolaSaavedra/Tip-Calculator/assets/90756437/61c73601-8bd9-4749-bdec-a8ac08ab366f"></a>
 This practice focuses on the Basics of Android with Compose regarding data persistence, specifically addressing Unit 2: Compile the UI of an app.<br><br><br>
